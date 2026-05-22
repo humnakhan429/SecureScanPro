@@ -17,8 +17,12 @@
 ## 📸 Screenshot
 
 > Dark-themed, clean GUI with multi-target scanning, real-time logging, and JSON report export.
+<img width="1366" height="706" alt="image" src="https://github.com/user-attachments/assets/0204fbb2-4ef0-43a0-96c6-3e1e66786d33" />
 
 ---
+<img width="1366" height="724" alt="image" src="https://github.com/user-attachments/assets/a0772f32-6c36-4ea1-a6f6-51274517c8c8" />
+
+<img width="1363" height="732" alt="image" src="https://github.com/user-attachments/assets/204163a0-dc2d-4cdf-add4-0452c876b04f" />
 
 ## ✨ Features
 
